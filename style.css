@@ -43,7 +43,7 @@ form input {
   flex-wrap: wrap;
   margin-top: 2rem;
   justify-content: space-between;
-  align-items: stretch  ;
+  align-items: stretch;
 }
 
 .card {
@@ -69,4 +69,3 @@ form input {
     flex-direction: column;
   }
 }
-
