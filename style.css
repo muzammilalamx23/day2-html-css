@@ -42,7 +42,8 @@ form input {
   gap: 1.5rem;
   flex-wrap: wrap;
   margin-top: 2rem;
-  color: red;
+  justify-content: space-between;
+  align-items: stretch  ;
 }
 
 .card {
@@ -50,6 +51,7 @@ form input {
   padding: 1rem;
   border: 1px solid #ccc;
   border-radius: 6px;
+  background-color: #fff;
 }
 
 .card h3 {
@@ -67,4 +69,4 @@ form input {
     flex-direction: column;
   }
 }
->>>>>>> 98f39d88a181a943404986a50c8a9d22b6c076d5
+
